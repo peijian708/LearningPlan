@@ -8,3 +8,4 @@
 ## Spring Boot企业微信点餐系统
 ## vue2.5去哪儿-本干货来自笑哥共享网www.xiaogegh https://github.com/hutu92/Travel
 ## Mall https://github.com/macrozheng/mall
+## JavaGuide https://github.com/Snailclimb/JavaGuide
